@@ -34,3 +34,7 @@ var hash = md5("value", null, true)
 ```js
 var hash = md5("value", "key", true)
 ```
+
+## 感谢
+
+JavaScript-MD5 [![GitHub stars](https://img.shields.io/github/stars/blueimp/JavaScript-MD5.svg?style=social&label=Stars)](https://github.com/blueimp/JavaScript-MD5)：JavaScript MD5 implementation. Compatible with server-side environments like node.js, module loaders like RequireJS and all web browsers. 官网：https://blueimp.github.io/JavaScript-MD5/
