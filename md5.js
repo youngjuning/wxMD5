@@ -260,4 +260,4 @@ function md5 (string, key, raw) {
   }
   return rawHMACMD5(key, string)
 }
-export {md5}
+export default md5
